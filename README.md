@@ -1,1 +1,1 @@
-## COMP115: Robots, Games, and Problem Solving
+## COMP398: Web Application Development
