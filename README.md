@@ -67,7 +67,9 @@ In compliance with the Wheaton College policy and equal access laws, Dean Bellem
 # Topic List
 
 Structure - 4 Weeks
+
 Style - 4 Weeks
+
 Interactivity - 4 Weeks
 
 ### Collection of Links
