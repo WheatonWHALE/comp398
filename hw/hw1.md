@@ -4,7 +4,7 @@ Implement &#8212; _in a language of your choice_ &#8212; an object-oriented, nod
 
 Demonstrate the functionality of your linked list in a driver program using the data that you and your partner gathered in class.
 
-Create a folder named `hw1` in your course repository that contains at least the following files (use appropriate filenames and extensions):
+Create a folder named `hw01` in your course repository that contains at least the following files (use appropriate filenames and extensions):
 
 * README file
 * Source for your linked list
