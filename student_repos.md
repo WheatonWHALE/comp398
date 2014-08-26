@@ -1,0 +1,16 @@
+# Student COMP398 Repos
+
+* [GATejada](https://github.com/GATejada/comp398)
+* [tkicks](https://github.com/tkicks/comp398)
+* [jdliss](https://github.com/jdliss/comp398)
+* [austinrg7](https://github.com/austinrg7/comp398)
+* [tiffoppotomus](https://github.com/tiffoppotomus/comp398)
+* [dshelts](https://github.com/dshelts/comp398)
+* [jge94](https://github.com/jge94/comp398)
+* [akuisara](https://github.com/akuisara/comp398)
+* [rubinz](https://github.com/rubinz/comp398)
+* [lithiah](https://github.com/lithiah/comp398)
+* [bawjensen](https://github.com/bawjensen/comp398)
+* [devindelfino](https://github.com/devindelfino/comp398)
+* [jmorneau](https://github.com/jmorneau/comp398)
+* [coldwellop1](https://github.com/coldwellop1/comp398)
