@@ -14,3 +14,4 @@
 * [devindelfino](https://github.com/devindelfino/comp398)
 * [jmorneau](https://github.com/jmorneau/comp398)
 * [coldwellop1](https://github.com/coldwellop1/comp398)
+* [employedtitan](https://github.com/employedtitan/comp398)
