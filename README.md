@@ -12,15 +12,15 @@ Week  | Topic | Due
 ------------- | ------------- | -------------
 1 | Introduction/Setup |  N/A
  |  | HW1
-2 |  | HW2
+2 | Structure I | HW2
  |  | HW3
-3 |  | HW4
+3 | Structure II | HW4
  |  | HW5
-4 |  | HW6
+4 | Style I | HW6
  |  | HW7
-5 |  | HW8
+5 | Style II | HW8
  |  | HW9
-6 |  | HW10
+6 | Interactivity I | HW10
  |  | HW11
 7 | **Guest Lecture** | &nbsp;
  | **Guest Lecture** | &nbsp;
