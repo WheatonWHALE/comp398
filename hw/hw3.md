@@ -1,7 +1,5 @@
 # Homework 3
 
-
-### Part 1
 Make a complete copy of the contents of the `hw02` directory you were assigned into the `hw03` in your repository. Begin by following the README and attempt to run/compile/execute the existing code. Next, become familiar with the style guide referenced in the README. Your task is to create a document, `review.md`, that contains two major sections.
 
 In the first section, `Style Guide Evaluation`, give detailed feedback about the source code, files, structure, etc. with respect to the style guide. Make sure that you include details about comments, variable naming, spacing, file i/o, etc.  That is, reference all the aspects used in the assignment.
@@ -17,7 +15,3 @@ The `hw03` directory in your course repository should contain at least the follo
 * Plaintext output of running your peer's driver program
 * **(new)** `review.md`
 * **(new)** A second plaintext output file of you running your peer's program
-
-### Part 2
-
-From the _Do Now_ in class, store your attempt at displaying the weather data in a file, `weather.html`, as a page on your account's `github.io` site.
