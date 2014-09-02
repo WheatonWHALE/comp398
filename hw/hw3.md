@@ -1,5 +1,8 @@
 # Homework 3
 
+
+### Part I
+
 Make a complete copy of the contents of the `hw02` directory you were assigned into the `hw03` in your repository. Begin by following the README and attempt to run/compile/execute the existing code. Next, become familiar with the style guide referenced in the README. Your task is to create a document, `review.md`, that contains two major sections.
 
 In the first section, `Style Guide Evaluation`, give detailed feedback about the source code, files, structure, etc. with respect to the style guide. Make sure that you include details about comments, variable naming, spacing, file i/o, etc.  That is, reference all the aspects used in the assignment.
@@ -15,3 +18,7 @@ The `hw03` directory in your course repository should contain at least the follo
 * Plaintext output of running your peer's driver program
 * **(new)** `review.md`
 * **(new)** A second plaintext output file of you running your peer's program
+
+### Part II
+
+Become familiar with the W3C's [HTML 2.0](http://www.w3.org/MarkUp/html-spec/html-spec_toc.html) specification from the mid-1990s. Create a file, `index_20.html` in your `hw03` directory that contains as _basic_ homepage about yourself that abides by &mdash; and only uses &mdash; this specification.
