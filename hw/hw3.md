@@ -9,9 +9,9 @@ In the second section, `Code Evaluation`, give detailed feedback about the code.
 The `hw03` directory in your course repository should contain at least the following files (use appropriate filenames, extensions, capitalization, etc.):
 
 * README file
-* Source for your linked list
-* Source for your driver program
-* Flat file database
-* Plaintext output of running your driver program
+* Source for your peer's linked list
+* Source for your peer's driver program
+* Peer's flat file database
+* Plaintext output of running your peer's driver program
 * **(new)** `review.md`
-* **(new)** A second plaintext output file of you running your classmate's program
+* **(new)** A second plaintext output file of you running your peer's program
