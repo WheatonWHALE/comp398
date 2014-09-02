@@ -1,6 +1,5 @@
 # Student COMP398 Repos
 
-* GATejada &mdash; [repo](https://github.com/GATejada/comp398) / [homepage](http://GATejada.github.io/)
 * tkicks &mdash; [repo](https://github.com/tkicks/comp398) / [homepage](http://tkicks.github.io/)
 * jdliss &mdash; [repo](https://github.com/jdliss/comp398) / [homepage](http://jdliss.github.io/)
 * austinrg7 &mdash; [repo](https://github.com/austinrg7/comp398) / [homepage](http://austinrg7.github.io/)
