@@ -17,3 +17,5 @@
 * bjoachim &mdash; [repo](https://github.com/bjoachim/comp398) / [homepage](http://bjoachim.github.io/)
 * nathanzm &mdash; [repo](https://github.com/nathanzm/comp398) / [homepage](http://nathanzm.github.io/)
 * omigayy &mdash; [repo](https://github.com/omigayy/comp398) / [homepage](http://omigayy.github.io/)
+* KhaledSharafaddin &mdash; [repo](https://github.com/KhaledSharafaddin/comp398) / [homepage](http://khaledsharafaddin.github.io/)
+* alextaoultsides &mdash; [repo](https://github.com/alextaoultsides/comp398) / [homepage](http://alextaoultsides.github.io)
