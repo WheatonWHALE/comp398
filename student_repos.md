@@ -9,6 +9,7 @@
 * tkicks &mdash; [repo](https://github.com/tkicks/comp398) / [homepage](http://tkicks.github.io/)
 * jdliss &mdash; [repo](https://github.com/jdliss/comp398) / [homepage](http://jdliss.github.io/)
 * jmorneau &mdash; [repo](https://github.com/jmorneau/comp398) / [homepage](http://jmorneau.github.io/)
+* nathanzm &mdash; [repo](https://github.com/nathanzm/comp398) / [homepage](http://nathanzm.github.io/)
 * coldwellop1 &mdash; [repo](https://github.com/coldwellop1/comp398) / [homepage](http://coldwellop1.github.io/)
 * rubinz &mdash; [repo](https://github.com/rubinz/comp398) / [homepage](http://rubinz.github.io/)
 * KhaledSharafaddin &mdash; [repo](https://github.com/KhaledSharafaddin/comp398) / [homepage](http://khaledsharafaddin.github.io/)
