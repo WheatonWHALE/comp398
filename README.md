@@ -23,7 +23,7 @@ Week  | Topic | Due
 6 | Interactivity I | HW10
  |  | HW11
 7 | **Guest Lecture** | &nbsp;
- | **Guest Lecture** | &nbsp;
+ | [MassTLC](http://www.eventbrite.com/e/networking-career-fair-tickets-12756833031) | &nbsp;
 8 | **Fall Break** | &nbsp;
  | **Guest Lecture** | &nbsp;
 9 |  | HW12
