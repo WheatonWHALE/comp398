@@ -22,23 +22,23 @@ Week  | Topic | Due
  |  | HW9
 6 | Interactivity I | HW10
  |  | HW11
-7 | **Guest Lecture** | &nbsp;
- | [MassTLC](http://www.eventbrite.com/e/networking-career-fair-tickets-12756833031) | &nbsp;
+7 | **Project 1 Group Work** | HW12
+ | [**MassTLC Event**](http://www.eventbrite.com/e/networking-career-fair-tickets-12756833031) | PF1
 8 | **Fall Break** | &nbsp;
- | **Guest Lecture** | &nbsp;
-9 |  | HW12
- |  | HW13
-10 |  | HW14
+ | **Guest Lecture** | HW13
+9 |  | HW14
+ |  | HW15
+10 |  | HW16
  | **Exam** | &nbsp;
-11 |  | HW15
- |  |  HW16
-12 |  | HW17
- |  | HW18
-13 |  | HW19
+11 |  | HW17
+ |  |  HW18
+12 |  | HW19
  |  | HW20
+13 |  | PF2
+ |  | &nbsp;
 14 |  | &nbsp;
  | **Thanksgiving** | &nbsp;
-15 | Presentations | Project Due
+15 | Project 3 Presentations | Project 3 Due
  | Presentations | Portfolio Due
 
 ## Methods of Evaluation
