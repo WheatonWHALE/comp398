@@ -22,11 +22,11 @@ Week  | Topic | Due
  |  | HW9
 6 | Interactivity I | HW10
  |  | HW11
-7 | **Project 1 Group Work** | HW12
+7 | Project 1 Group Work | HW12
  | [**MassTLC Event**](http://www.eventbrite.com/e/networking-career-fair-tickets-12756833031) | PF1
 8 | **Fall Break** | &nbsp;
  | **Guest Lecture** | HW13
-9 |  | HW14
+9 | Project 1 Presentations | HW14
  |  | HW15
 10 |  | HW16
  | **Exam** | &nbsp;
