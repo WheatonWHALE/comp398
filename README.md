@@ -26,16 +26,16 @@ Week  | Topic | Due
  | [**MassTLC Event**](http://www.eventbrite.com/e/networking-career-fair-tickets-12756833031) | PF1
 8 | **Fall Break** | &nbsp;
  | **Guest Lecture** | HW13
-9 | Project 1 Presentations | HW14
- |  | HW15
-10 |  | HW16
+9 | Project 1 Presentations | &nbsp;
+ |  | HW14
+10 |  | HW15
  | **Exam** | &nbsp;
-11 |  | HW17
- |  |  HW18
-12 |  | HW19
- |  | HW20
-13 |  | PF2
- |  | &nbsp;
+11 |  | HW16
+ |  |  HW17
+12 |  | HW18
+ |  | HW19
+13 |  | HW20
+ |  | PF2
 14 |  | &nbsp;
  | **Thanksgiving** | &nbsp;
 15 | Project 3 Presentations | Project 3 Due
