@@ -27,14 +27,14 @@ Week  | Topic | Due
 8 | **Fall Break** | &nbsp;
  | **Guest Lecture** | HW13
 9 | Project 1 Presentations | &nbsp;
- |  | HW14
-10 |  | HW15
+ |  | &nbsp;
+10 |  | &nbsp;
  | **Exam** | &nbsp;
-11 |  | HW16
- |  |  HW17
-12 |  | HW18
- |  | HW19
-13 |  | HW20
+11 |  | HW14
+ |  |  HW15
+12 |  | HW16
+ |  | HW17
+13 |  | HW18
  |  | PF2
 14 |  | &nbsp;
  | **Thanksgiving** | &nbsp;
