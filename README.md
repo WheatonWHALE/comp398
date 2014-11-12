@@ -35,11 +35,14 @@ Week  | Topic | Due
 12 |  | HW16
  |  | HW17
 13 |  | HW18
- |  | PF2
-14 |  | &nbsp;
+ |  | &nbsp;
+14 |  | PF2
  | **Thanksgiving** | &nbsp;
-15 | Project 3 Presentations | Project 3 Due
- | Presentations | Portfolio Due
+15 |  | &nbsp;
+ | Project 3 Presentations | Project 3 Due
+ 16 | Finals Week | Portfolio Due
+ |  | &nbsp;
+ 
 
 ## Methods of Evaluation
 

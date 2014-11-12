@@ -15,4 +15,4 @@ For each of the repos that you are providing peer feedback, you are expected to:
 
 ### Part 2
 
-After the October 9th and November 18th deadlines, go to your own repo and address **all** issues and pull requests that resulted from the peer feedback. You must work through and close any open issues and [merge pull requests](https://help.github.com/articles/merging-a-pull-request) -- with appropriate attribution -- as necessary. This must be completed by the end of classes, December 5th.
+After the October 9th and November 25th deadlines, go to your own repo and address **all** issues and pull requests that resulted from the peer feedback. You must work through and close any open issues and [merge pull requests](https://help.github.com/articles/merging-a-pull-request) -- with appropriate attribution -- as necessary. This must be completed by the end of classes, December 5th.
